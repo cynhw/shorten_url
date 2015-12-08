@@ -62,5 +62,5 @@ app.get('/:hash', function(req,res){
 // Takes a hash and redirects the user to the url stored in the database
 
 
-app.listen(process.env.PORT || 3000)
+app.listen(process.env.PORT || 3000);
 // console.log('( ˘︹˘ )');

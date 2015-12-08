@@ -10,8 +10,8 @@
     "dialect": "postgres"
   },
   "production": {
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "database": "hobby_dev",
+    "host": "postgres://wdkflixdtefqfg:6r3Si2zrcJxVdRivu03SQrKeAF@ec2-54-204-5-56.compute-1.amazonaws.com:5432/d44bsm387i1f77",
     "dialect": "postgres"
   }
 }
